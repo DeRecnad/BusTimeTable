@@ -5,5 +5,5 @@ register = template.Library()
 
 
 @register.simple_tag
-def jopa():
-    return HttpResponse("penis")
+def submit():
+    return 1
