@@ -1,0 +1,56 @@
+{% load tags %}
+{% load static %}
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Расписание</title>
+
+    <!-- Bootstrap -->
+    <link href="{% static '/css/bootstrap-4.4.1.css' %}" rel="stylesheet">
+
+  </head>
+  <body class="container p-5 w-200 align-items-center">
+  <datalist id="datalist">
+      {% for elem in station_names %}
+          <option value="{{elem}}">
+      {% endfor %}
+  </datalist>
+  <form action="{% url 'index' %}" method="POST">{% csrf_token %}
+      {{ form }}
+	  <div class="card container text-center px-5 p-3 w-50 align-items-center " style="width: 40rem;"><br>
+	  <div class="row justify-content-center align-self-center">
+    	<div class="input-group mb-3">
+  			<input type="text" name="from" class="form-control" list="datalist" placeholder="Откуда" aria-label="Recipient's username" aria-describedby="button-addon2">
+		</div>
+		<div class="input-group mb-3">
+  			<input type="text" name="to" class="form-control" list="datalist" placeholder="Куда" aria-label="Recipient's username" aria-describedby="button-addon2">
+		</div><br>
+
+            <input name="submit" type="submit" class="btn btn-primary" value="Поиск маршрутов"><br>
+
+
+	</div><br>
+	</div><br>
+  </form>
+{% if submit == 1 %}
+
+	  <div class="card container align-items-center" style="width: 40rem;">
+  		<div class="card-body row align-items-start text-center" style="width: 40rem;">
+    		<h5 class="card-title col-6">{{ title }}</h5>
+			<h5 class="card-title col-2">{{ departure }}</h5>
+			<h6 class="card-title col-2">{{ interval }}</h6>
+			<h5 class="card-title col-2">{{ arrival }}</h5>
+		</div>
+		</div>
+{% endif %}
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="{% static 'js/jquery-3.4.1.min.js' %}"></script>
+
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="{% static 'js/popper.min.js' %}"></script>
+    <script src="{% static 'js/bootstrap-4.4.1.js' %}"></script>
+  </body>
+</html>
