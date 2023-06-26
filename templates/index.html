@@ -63,14 +63,16 @@
       </form>
   {% if submit == 1 %}
       {% for elem in sent %}
-	  <div class="card container align-items-center" style="width: 40rem;">
-  		<div class="card-body row align-items-start text-center" style="width: 40rem;">
-    		<h5 class="card-title col-6">{{ elem.3 }}</h5>
-			<h5 class="card-title col-2">{{ elem.1 }}</h5>
-			<h6 class="card-title col-2">{{ elem.4 }}</h6>
-			<h5 class="card-title col-2">{{ elem.0}}</h5>
-		</div>
-      <h7>{{ elem.2 }}</h7>
+	  <div class="p-2">
+	  	<div class="card container align-items-center" style="width: 40rem;">
+  			<div class="card-body row align-items-start text-center" style="width: 40rem;">
+    			<h5 class="card-title col-6">{{ elem.3 }}</h5>
+				<h5 class="card-title col-2">{{ elem.1 }}</h5>
+				<h6 class="card-title col-2">{{ elem.4 }}</h6>
+				<h5 class="card-title col-2">{{ elem.0}}</h5>
+			</div>
+      	<h7>{{ elem.2 }}</h7>
+			</div>
 		</div>
 {% endfor %}
 {% endif %}

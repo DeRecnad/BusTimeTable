@@ -1,6 +1,6 @@
 {
      "pagination": {
-          "total": 500,
+          "total": 424,
           "limit": 1000,
           "offset": 0
      },
@@ -187,30 +187,6 @@
           },
           {
                "type": "station",
-               "title": "Пермь-1",
-               "short_title": "",
-               "popular_title": "",
-               "code": "s9607493",
-               "lat": 58.02018,
-               "lng": 56.252254,
-               "station_type": "station",
-               "station_type_name": "станция",
-               "transport_type": "train",
-               "distance": 1.5328644166730954,
-               "majority": 2,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9607493/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9607493/suburban"
-                    },
-                    "tablo": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9607493/tablo",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9607493/tablo"
-                    }
-               }
-          },
-          {
-               "type": "station",
                "title": "Пермь, Комсомольская площадь",
                "short_title": null,
                "popular_title": null,
@@ -226,26 +202,6 @@
                     "schedule": {
                          "desktop_url": "https://rasp.yandex.ru/station/9865832/schedule",
                          "touch_url": "https://t.rasp.yandex.ru/station/9865832/schedule"
-                    }
-               }
-          },
-          {
-               "type": "station",
-               "title": "1436 км",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9670914",
-               "lat": 57.994577179458155,
-               "lng": 56.202137335967734,
-               "station_type": "stop",
-               "station_type_name": "остановочный пункт",
-               "transport_type": "train",
-               "distance": 2.571400302422077,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9670914/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9670914/suburban"
                     }
                }
           },
@@ -331,34 +287,6 @@
           },
           {
                "type": "station",
-               "title": "Пермь-2",
-               "short_title": "",
-               "popular_title": "",
-               "code": "s9607774",
-               "lat": 58.004438,
-               "lng": 56.181746,
-               "station_type": "station",
-               "station_type_name": "станция",
-               "transport_type": "train",
-               "distance": 3.157843740540678,
-               "majority": 1,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9607774/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9607774/suburban"
-                    },
-                    "train": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9607774/train",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9607774/train"
-                    },
-                    "tablo": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9607774/tablo",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9607774/tablo"
-                    }
-               }
-          },
-          {
-               "type": "station",
                "title": "Авторынок (Луговая)",
                "short_title": "",
                "popular_title": "",
@@ -374,26 +302,6 @@
                     "schedule": {
                          "desktop_url": "https://rasp.yandex.ru/station/9728705/schedule",
                          "touch_url": "https://t.rasp.yandex.ru/station/9728705/schedule"
-                    }
-               }
-          },
-          {
-               "type": "station",
-               "title": "Славянова",
-               "short_title": "",
-               "popular_title": "",
-               "code": "s9607959",
-               "lat": 58.028399,
-               "lng": 56.28554,
-               "station_type": "stop",
-               "station_type_name": "остановочный пункт",
-               "transport_type": "train",
-               "distance": 3.6358804509201437,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9607959/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9607959/suburban"
                     }
                }
           },
@@ -599,26 +507,6 @@
           },
           {
                "type": "station",
-               "title": "Комплекс ППИ (10 км)",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9881598",
-               "lat": 58.05387672384462,
-               "lng": 56.23840301318259,
-               "station_type": "stop",
-               "station_type_name": "остановочный пункт",
-               "transport_type": "train",
-               "distance": 4.857760551850449,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9881598/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9881598/suburban"
-                    }
-               }
-          },
-          {
-               "type": "station",
                "title": "Улица Одоевского",
                "short_title": "",
                "popular_title": "",
@@ -654,26 +542,6 @@
                     "schedule": {
                          "desktop_url": "https://rasp.yandex.ru/station/9875556/schedule",
                          "touch_url": "https://t.rasp.yandex.ru/station/9875556/schedule"
-                    }
-               }
-          },
-          {
-               "type": "station",
-               "title": "Мотовилиха",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9608046",
-               "lat": 58.035813,
-               "lng": 56.307201,
-               "station_type": "stop",
-               "station_type_name": "остановочный пункт",
-               "transport_type": "train",
-               "distance": 5.154694367831731,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9608046/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9608046/suburban"
                     }
                }
           },
@@ -819,26 +687,6 @@
           },
           {
                "type": "station",
-               "title": "Бахаревка",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9607806",
-               "lat": 57.953220888918096,
-               "lng": 56.234868899474684,
-               "station_type": "station",
-               "station_type_name": "станция",
-               "transport_type": "train",
-               "distance": 6.344259924834803,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9607806/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9607806/suburban"
-                    }
-               }
-          },
-          {
-               "type": "station",
                "title": "Улица Докучаева",
                "short_title": null,
                "popular_title": null,
@@ -874,26 +722,6 @@
                     "schedule": {
                          "desktop_url": "https://rasp.yandex.ru/station/9729542/schedule",
                          "touch_url": "https://t.rasp.yandex.ru/station/9729542/schedule"
-                    }
-               }
-          },
-          {
-               "type": "station",
-               "title": "Пермь-Сорт.",
-               "short_title": "",
-               "popular_title": "",
-               "code": "s9607416",
-               "lat": 58.03489109096108,
-               "lng": 56.131775072421576,
-               "station_type": "station",
-               "station_type_name": "станция",
-               "transport_type": "train",
-               "distance": 6.625877633369876,
-               "majority": 3,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9607416/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9607416/suburban"
                     }
                }
           },
@@ -979,26 +807,6 @@
           },
           {
                "type": "station",
-               "title": "Язовая",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9607900",
-               "lat": 58.057421,
-               "lng": 56.325983,
-               "station_type": "stop",
-               "station_type_name": "остановочный пункт",
-               "transport_type": "train",
-               "distance": 7.53195878575608,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9607900/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9607900/suburban"
-                    }
-               }
-          },
-          {
-               "type": "station",
                "title": "Микрорайон Запруд",
                "short_title": "",
                "popular_title": "",
@@ -1059,26 +867,6 @@
           },
           {
                "type": "station",
-               "title": "Липовая Гора (1447 км)",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9608100",
-               "lat": 57.943499566887795,
-               "lng": 56.27709752368093,
-               "station_type": "stop",
-               "station_type_name": "остановочный пункт",
-               "transport_type": "train",
-               "distance": 7.844695231164179,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9608100/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9608100/suburban"
-                    }
-               }
-          },
-          {
-               "type": "station",
                "title": "Ключевая",
                "short_title": null,
                "popular_title": null,
@@ -1119,26 +907,6 @@
           },
           {
                "type": "station",
-               "title": "Комсомольская",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9608032",
-               "lat": 58.03895,
-               "lng": 56.103327,
-               "station_type": "stop",
-               "station_type_name": "остановочный пункт",
-               "transport_type": "train",
-               "distance": 8.342645256569575,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9608032/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9608032/suburban"
-                    }
-               }
-          },
-          {
-               "type": "station",
                "title": "Комсомольский микрорайон",
                "short_title": null,
                "popular_title": null,
@@ -1154,26 +922,6 @@
                     "schedule": {
                          "desktop_url": "https://rasp.yandex.ru/station/9881918/schedule",
                          "touch_url": "https://t.rasp.yandex.ru/station/9881918/schedule"
-                    }
-               }
-          },
-          {
-               "type": "station",
-               "title": "Юбилейная",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9608036",
-               "lat": 58.065732,
-               "lng": 56.333785,
-               "station_type": "stop",
-               "station_type_name": "остановочный пункт",
-               "transport_type": "train",
-               "distance": 8.511902216420307,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9608036/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9608036/suburban"
                     }
                }
           },
@@ -1299,26 +1047,6 @@
           },
           {
                "type": "station",
-               "title": "Железнодорожный",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9608033",
-               "lat": 58.04205906814624,
-               "lng": 56.08358766137658,
-               "station_type": "stop",
-               "station_type_name": "остановочный пункт",
-               "transport_type": "train",
-               "distance": 9.549619362314777,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9608033/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9608033/suburban"
-                    }
-               }
-          },
-          {
-               "type": "station",
                "title": "Фролы",
                "short_title": null,
                "popular_title": null,
@@ -1354,26 +1082,6 @@
                     "schedule": {
                          "desktop_url": "https://rasp.yandex.ru/station/9871279/schedule",
                          "touch_url": "https://t.rasp.yandex.ru/station/9871279/schedule"
-                    }
-               }
-          },
-          {
-               "type": "station",
-               "title": "Балмошная",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9607803",
-               "lat": 58.076834,
-               "lng": 56.343515,
-               "station_type": "station",
-               "station_type_name": "станция",
-               "transport_type": "train",
-               "distance": 9.810660398449667,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9607803/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9607803/suburban"
                     }
                }
           },
@@ -1439,30 +1147,6 @@
           },
           {
                "type": "station",
-               "title": "Кабельная",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9881597",
-               "lat": 58.09639081382014,
-               "lng": 56.30342263113167,
-               "station_type": "station",
-               "station_type_name": "станция",
-               "transport_type": "train",
-               "distance": 10.41048821269225,
-               "majority": 2,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9881597/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9881597/suburban"
-                    },
-                    "tablo": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9881597/tablo",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9881597/tablo"
-                    }
-               }
-          },
-          {
-               "type": "station",
                "title": "Совхозная",
                "short_title": null,
                "popular_title": null,
@@ -1478,26 +1162,6 @@
                     "schedule": {
                          "desktop_url": "https://rasp.yandex.ru/station/9729714/schedule",
                          "touch_url": "https://t.rasp.yandex.ru/station/9729714/schedule"
-                    }
-               }
-          },
-          {
-               "type": "station",
-               "title": "Няшино",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9608101",
-               "lat": 57.92138126350826,
-               "lng": 56.29706169311489,
-               "station_type": "stop",
-               "station_type_name": "остановочный пункт",
-               "transport_type": "train",
-               "distance": 10.558418675640542,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9608101/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9608101/suburban"
                     }
                }
           },
@@ -1643,26 +1307,6 @@
           },
           {
                "type": "station",
-               "title": "Промучасток",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9607696",
-               "lat": 58.041132005762876,
-               "lng": 56.047589772403995,
-               "station_type": "stop",
-               "station_type_name": "остановочный пункт",
-               "transport_type": "train",
-               "distance": 11.51472946089087,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9607696/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9607696/suburban"
-                    }
-               }
-          },
-          {
-               "type": "station",
                "title": "Рынок \"Гайва\"",
                "short_title": "",
                "popular_title": "",
@@ -1698,26 +1342,6 @@
                     "schedule": {
                          "desktop_url": "https://rasp.yandex.ru/station/9729491/schedule",
                          "touch_url": "https://t.rasp.yandex.ru/station/9729491/schedule"
-                    }
-               }
-          },
-          {
-               "type": "station",
-               "title": "Кислотный",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9607630",
-               "lat": 58.09439,
-               "lng": 56.35573,
-               "station_type": "stop",
-               "station_type_name": "остановочный пункт",
-               "transport_type": "train",
-               "distance": 11.778298705334139,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9607630/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9607630/suburban"
                     }
                }
           },
@@ -1943,26 +1567,6 @@
           },
           {
                "type": "station",
-               "title": "Курья",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9607415",
-               "lat": 58.04697810819377,
-               "lng": 56.02113530919216,
-               "station_type": "station",
-               "station_type_name": "станция",
-               "transport_type": "train",
-               "distance": 13.195820186445202,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9607415/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9607415/suburban"
-                    }
-               }
-          },
-          {
-               "type": "station",
                "title": "ПНПК проходные",
                "short_title": null,
                "popular_title": null,
@@ -2023,26 +1627,6 @@
           },
           {
                "type": "station",
-               "title": "Ферма",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9607427",
-               "lat": 57.893584551910955,
-               "lng": 56.29941059391716,
-               "station_type": "station",
-               "station_type_name": "станция",
-               "transport_type": "train",
-               "distance": 13.536037121871697,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9607427/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9607427/suburban"
-                    }
-               }
-          },
-          {
-               "type": "station",
                "title": "Ванюки",
                "short_title": "",
                "popular_title": "",
@@ -2058,26 +1642,6 @@
                     "schedule": {
                          "desktop_url": "https://rasp.yandex.ru/station/9728847/schedule",
                          "touch_url": "https://t.rasp.yandex.ru/station/9728847/schedule"
-                    }
-               }
-          },
-          {
-               "type": "station",
-               "title": "Молодёжная",
-               "short_title": "",
-               "popular_title": "",
-               "code": "s9608056",
-               "lat": 58.114706,
-               "lng": 56.365686,
-               "station_type": "stop",
-               "station_type_name": "остановочный пункт",
-               "transport_type": "train",
-               "distance": 13.95766453694244,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9608056/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9608056/suburban"
                     }
                }
           },
@@ -2158,26 +1722,6 @@
                     "schedule": {
                          "desktop_url": "https://rasp.yandex.ru/station/9729432/schedule",
                          "touch_url": "https://t.rasp.yandex.ru/station/9729432/schedule"
-                    }
-               }
-          },
-          {
-               "type": "station",
-               "title": "КамГЭС",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9607611",
-               "lat": 58.122296,
-               "lng": 56.367874,
-               "station_type": "stop",
-               "station_type_name": "остановочный пункт",
-               "transport_type": "train",
-               "distance": 14.735644419964146,
-               "majority": 3,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9607611/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9607611/suburban"
                     }
                }
           },
@@ -2403,30 +1947,6 @@
           },
           {
                "type": "station",
-               "title": "Лёвшино",
-               "short_title": "",
-               "popular_title": "",
-               "code": "s9607417",
-               "lat": 58.135439,
-               "lng": 56.376757,
-               "station_type": "station",
-               "station_type_name": "станция",
-               "transport_type": "train",
-               "distance": 16.25352055427315,
-               "majority": 3,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9607417/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9607417/suburban"
-                    },
-                    "train": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9607417/train",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9607417/train"
-                    }
-               }
-          },
-          {
-               "type": "station",
                "title": "Новое Лобаново",
                "short_title": "",
                "popular_title": "",
@@ -2462,46 +1982,6 @@
                     "schedule": {
                          "desktop_url": "https://rasp.yandex.ru/station/9728741/schedule",
                          "touch_url": "https://t.rasp.yandex.ru/station/9728741/schedule"
-                    }
-               }
-          },
-          {
-               "type": "station",
-               "title": "Кочкино",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9608102",
-               "lat": 57.86499202348326,
-               "lng": 56.31096964152475,
-               "station_type": "stop",
-               "station_type_name": "остановочный пункт",
-               "transport_type": "train",
-               "distance": 16.78133808304266,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9608102/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9608102/suburban"
-                    }
-               }
-          },
-          {
-               "type": "station",
-               "title": "30 км",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9608134",
-               "lat": 58.08496,
-               "lng": 56.482415,
-               "station_type": "stop",
-               "station_type_name": "остановочный пункт",
-               "transport_type": "train",
-               "distance": 16.808075248534575,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9608134/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9608134/suburban"
                     }
                }
           },
@@ -2647,30 +2127,6 @@
           },
           {
                "type": "station",
-               "title": "Адищево",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9607939",
-               "lat": 58.103862,
-               "lng": 56.466847,
-               "station_type": "station",
-               "station_type_name": "станция",
-               "transport_type": "train",
-               "distance": 17.19972290288303,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9607939/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9607939/suburban"
-                    },
-                    "train": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9607939/train",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9607939/train"
-                    }
-               }
-          },
-          {
-               "type": "station",
                "title": "Кооператив \"Газовик\"",
                "short_title": "",
                "popular_title": "",
@@ -2751,26 +2207,6 @@
           },
           {
                "type": "station",
-               "title": "Ласьва",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9608034",
-               "lat": 58.0710417633971,
-               "lng": 55.958857390212806,
-               "station_type": "stop",
-               "station_type_name": "остановочный пункт",
-               "transport_type": "train",
-               "distance": 17.563515937249377,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9608034/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9608034/suburban"
-                    }
-               }
-          },
-          {
-               "type": "station",
                "title": "Гамово",
                "short_title": "",
                "popular_title": "",
@@ -2826,46 +2262,6 @@
                     "schedule": {
                          "desktop_url": "https://rasp.yandex.ru/station/9728755/schedule",
                          "touch_url": "https://t.rasp.yandex.ru/station/9728755/schedule"
-                    }
-               }
-          },
-          {
-               "type": "station",
-               "title": "25 км",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9608133",
-               "lat": 58.121913,
-               "lng": 56.448961,
-               "station_type": "stop",
-               "station_type_name": "остановочный пункт",
-               "transport_type": "train",
-               "distance": 17.716490784911887,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9608133/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9608133/suburban"
-                    }
-               }
-          },
-          {
-               "type": "station",
-               "title": "Банная Гора",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9608132",
-               "lat": 58.148931,
-               "lng": 56.39047,
-               "station_type": "stop",
-               "station_type_name": "остановочный пункт",
-               "transport_type": "train",
-               "distance": 17.954492629717702,
-               "majority": 3,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9608132/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9608132/suburban"
                     }
                }
           },
@@ -2991,26 +2387,6 @@
           },
           {
                "type": "station",
-               "title": "Клестовский",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9608104",
-               "lat": 57.853175406874406,
-               "lng": 56.35839608737149,
-               "station_type": "stop",
-               "station_type_name": "остановочный пункт",
-               "transport_type": "train",
-               "distance": 18.948848147761684,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9608104/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9608104/suburban"
-                    }
-               }
-          },
-          {
-               "type": "station",
                "title": "Клестята",
                "short_title": "",
                "popular_title": "",
@@ -3046,26 +2422,6 @@
                     "schedule": {
                          "desktop_url": "https://rasp.yandex.ru/station/9729228/schedule",
                          "touch_url": "https://t.rasp.yandex.ru/station/9729228/schedule"
-                    }
-               }
-          },
-          {
-               "type": "station",
-               "title": "Голованово",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9607572",
-               "lat": 58.14488,
-               "lng": 56.448971,
-               "station_type": "station",
-               "station_type_name": "станция",
-               "transport_type": "train",
-               "distance": 19.589804602602417,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9607572/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9607572/suburban"
                     }
                }
           },
@@ -3126,46 +2482,6 @@
                     "schedule": {
                          "desktop_url": "https://rasp.yandex.ru/station/9729506/schedule",
                          "touch_url": "https://t.rasp.yandex.ru/station/9729506/schedule"
-                    }
-               }
-          },
-          {
-               "type": "station",
-               "title": "Посёлок Пятый км (5 км)",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9608145",
-               "lat": 58.170433,
-               "lng": 56.383153,
-               "station_type": "stop",
-               "station_type_name": "остановочный пункт",
-               "transport_type": "train",
-               "distance": 19.851657764554833,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9608145/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9608145/suburban"
-                    }
-               }
-          },
-          {
-               "type": "station",
-               "title": "Мысы",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9608035",
-               "lat": 58.058963686649285,
-               "lng": 55.90774993865773,
-               "station_type": "stop",
-               "station_type_name": "остановочный пункт",
-               "transport_type": "train",
-               "distance": 19.9711090538002,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9608035/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9608035/suburban"
                     }
                }
           },
@@ -3351,26 +2667,6 @@
           },
           {
                "type": "station",
-               "title": "Горбуново",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9608105",
-               "lat": 57.83774630797117,
-               "lng": 56.37953640740952,
-               "station_type": "stop",
-               "station_type_name": "остановочный пункт",
-               "transport_type": "train",
-               "distance": 21.02080473970294,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9608105/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9608105/suburban"
-                    }
-               }
-          },
-          {
-               "type": "station",
                "title": "Глушата (поворот)",
                "short_title": null,
                "popular_title": null,
@@ -3386,46 +2682,6 @@
                     "schedule": {
                          "desktop_url": "https://rasp.yandex.ru/station/9728894/schedule",
                          "touch_url": "https://t.rasp.yandex.ru/station/9728894/schedule"
-                    }
-               }
-          },
-          {
-               "type": "station",
-               "title": "Пальники",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9607418",
-               "lat": 58.177692,
-               "lng": 56.402831,
-               "station_type": "station",
-               "station_type_name": "станция",
-               "transport_type": "train",
-               "distance": 21.09715939384148,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9607418/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9607418/suburban"
-                    }
-               }
-          },
-          {
-               "type": "station",
-               "title": "Новые Ляды (38 км)",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9608135",
-               "lat": 58.053016,
-               "lng": 56.5836,
-               "station_type": "stop",
-               "station_type_name": "остановочный пункт",
-               "transport_type": "train",
-               "distance": 21.118467151424877,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9608135/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9608135/suburban"
                     }
                }
           },
@@ -3531,26 +2787,6 @@
           },
           {
                "type": "station",
-               "title": "Никитино",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9877053",
-               "lat": 58.05988791090642,
-               "lng": 55.87629478366118,
-               "station_type": "stop",
-               "station_type_name": "остановочный пункт",
-               "transport_type": "train",
-               "distance": 21.78522053695933,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9877053/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9877053/suburban"
-                    }
-               }
-          },
-          {
-               "type": "station",
                "title": "Полевая",
                "short_title": null,
                "popular_title": null,
@@ -3626,30 +2862,6 @@
                     "schedule": {
                          "desktop_url": "https://rasp.yandex.ru/station/9729459/schedule",
                          "touch_url": "https://t.rasp.yandex.ru/station/9729459/schedule"
-                    }
-               }
-          },
-          {
-               "type": "station",
-               "title": "Ляды",
-               "short_title": "",
-               "popular_title": "",
-               "code": "s9607498",
-               "lat": 58.04828,
-               "lng": 56.60252,
-               "station_type": "station",
-               "station_type_name": "станция",
-               "transport_type": "train",
-               "distance": 22.10002430598102,
-               "majority": 2,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9607498/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9607498/suburban"
-                    },
-                    "tablo": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9607498/tablo",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9607498/tablo"
                     }
                }
           },
@@ -4015,46 +3227,6 @@
           },
           {
                "type": "station",
-               "title": "Оверята",
-               "short_title": "",
-               "popular_title": "",
-               "code": "s9607413",
-               "lat": 58.08605346764412,
-               "lng": 55.86826329695843,
-               "station_type": "station",
-               "station_type_name": "станция",
-               "transport_type": "train",
-               "distance": 23.130324900034474,
-               "majority": 3,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9607413/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9607413/suburban"
-                    }
-               }
-          },
-          {
-               "type": "station",
-               "title": "Лесная Поляна",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9670917",
-               "lat": 58.039016,
-               "lng": 56.62462,
-               "station_type": "stop",
-               "station_type_name": "остановочный пункт",
-               "transport_type": "train",
-               "distance": 23.217519223096303,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9670917/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9670917/suburban"
-                    }
-               }
-          },
-          {
-               "type": "station",
                "title": "Залесная",
                "short_title": "",
                "popular_title": "",
@@ -4130,26 +3302,6 @@
                     "schedule": {
                          "desktop_url": "https://rasp.yandex.ru/station/9728999/schedule",
                          "touch_url": "https://t.rasp.yandex.ru/station/9728999/schedule"
-                    }
-               }
-          },
-          {
-               "type": "station",
-               "title": "Горки (9 км)",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9607963",
-               "lat": 58.192273,
-               "lng": 56.435152,
-               "station_type": "stop",
-               "station_type_name": "остановочный пункт",
-               "transport_type": "train",
-               "distance": 23.43820879972219,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9607963/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9607963/suburban"
                     }
                }
           },
@@ -4270,26 +3422,6 @@
                     "schedule": {
                          "desktop_url": "https://rasp.yandex.ru/station/9749697/schedule",
                          "touch_url": "https://t.rasp.yandex.ru/station/9749697/schedule"
-                    }
-               }
-          },
-          {
-               "type": "station",
-               "title": "Мулянка",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9607428",
-               "lat": 57.808181339963866,
-               "lng": 56.3779637460325,
-               "station_type": "station",
-               "station_type_name": "станция",
-               "transport_type": "train",
-               "distance": 24.028234288924427,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9607428/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9607428/suburban"
                     }
                }
           },
@@ -4555,26 +3687,6 @@
           },
           {
                "type": "station",
-               "title": "Красная Слудка (12 км)",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9608146",
-               "lat": 58.196738,
-               "lng": 56.474038,
-               "station_type": "stop",
-               "station_type_name": "остановочный пункт",
-               "transport_type": "train",
-               "distance": 25.077689984371396,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9608146/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9608146/suburban"
-                    }
-               }
-          },
-          {
-               "type": "station",
                "title": "Скобелевка",
                "short_title": null,
                "popular_title": null,
@@ -4610,26 +3722,6 @@
                     "schedule": {
                          "desktop_url": "https://rasp.yandex.ru/station/9729737/schedule",
                          "touch_url": "https://t.rasp.yandex.ru/station/9729737/schedule"
-                    }
-               }
-          },
-          {
-               "type": "station",
-               "title": "Залесная",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9608138",
-               "lat": 58.03166,
-               "lng": 56.660109,
-               "station_type": "stop",
-               "station_type_name": "остановочный пункт",
-               "transport_type": "train",
-               "distance": 25.20169537628838,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9608138/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9608138/suburban"
                     }
                }
           },
@@ -4835,26 +3927,6 @@
           },
           {
                "type": "station",
-               "title": "Ельники (13 км)",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9607971",
-               "lat": 58.196669,
-               "lng": 56.500692,
-               "station_type": "stop",
-               "station_type_name": "остановочный пункт",
-               "transport_type": "train",
-               "distance": 25.98435903131771,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9607971/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9607971/suburban"
-                    }
-               }
-          },
-          {
-               "type": "station",
                "title": "Мысы (Пермские)",
                "short_title": null,
                "popular_title": null,
@@ -4890,26 +3962,6 @@
                     "schedule": {
                          "desktop_url": "https://rasp.yandex.ru/station/9729009/schedule",
                          "touch_url": "https://t.rasp.yandex.ru/station/9729009/schedule"
-                    }
-               }
-          },
-          {
-               "type": "station",
-               "title": "1406 км",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9670913",
-               "lat": 58.112879,
-               "lng": 55.833577,
-               "station_type": "stop",
-               "station_type_name": "остановочный пункт",
-               "transport_type": "train",
-               "distance": 26.19016965372246,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9670913/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9670913/suburban"
                     }
                }
           },
@@ -5010,26 +4062,6 @@
                     "schedule": {
                          "desktop_url": "https://rasp.yandex.ru/station/9872438/schedule",
                          "touch_url": "https://t.rasp.yandex.ru/station/9872438/schedule"
-                    }
-               }
-          },
-          {
-               "type": "station",
-               "title": "Рейда",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9877052",
-               "lat": 58.06739921961372,
-               "lng": 55.796507227477186,
-               "station_type": "stop",
-               "station_type_name": "остановочный пункт",
-               "transport_type": "train",
-               "distance": 26.54183675252494,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9877052/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9877052/suburban"
                     }
                }
           },
@@ -5355,26 +4387,6 @@
           },
           {
                "type": "station",
-               "title": "Стрелка",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9608037",
-               "lat": 58.120069,
-               "lng": 55.81405,
-               "station_type": "stop",
-               "station_type_name": "остановочный пункт",
-               "transport_type": "train",
-               "distance": 27.571432830751622,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9608037/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9608037/suburban"
-                    }
-               }
-          },
-          {
-               "type": "station",
                "title": "Кооператив \"Васильки\"",
                "short_title": null,
                "popular_title": null,
@@ -5410,46 +4422,6 @@
                     "schedule": {
                          "desktop_url": "https://rasp.yandex.ru/station/9729856/schedule",
                          "touch_url": "https://t.rasp.yandex.ru/station/9729856/schedule"
-                    }
-               }
-          },
-          {
-               "type": "station",
-               "title": "48 км",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9608140",
-               "lat": 58.038966,
-               "lng": 56.699975,
-               "station_type": "stop",
-               "station_type_name": "остановочный пункт",
-               "transport_type": "train",
-               "distance": 27.619758567349933,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9608140/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9608140/suburban"
-                    }
-               }
-          },
-          {
-               "type": "station",
-               "title": "Бобки",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9607899",
-               "lat": 58.209467,
-               "lng": 56.517992,
-               "station_type": "stop",
-               "station_type_name": "остановочный пункт",
-               "transport_type": "train",
-               "distance": 27.731255519751844,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9607899/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9607899/suburban"
                     }
                }
           },
@@ -5550,50 +4522,6 @@
                     "schedule": {
                          "desktop_url": "https://rasp.yandex.ru/station/9729760/schedule",
                          "touch_url": "https://t.rasp.yandex.ru/station/9729760/schedule"
-                    }
-               }
-          },
-          {
-               "type": "station",
-               "title": "Краснокамск",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9607689",
-               "lat": 58.07471368357985,
-               "lng": 55.770901121703204,
-               "station_type": "station",
-               "station_type_name": "станция",
-               "transport_type": "train",
-               "distance": 28.20094795964093,
-               "majority": 1,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9607689/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9607689/suburban"
-                    },
-                    "tablo": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9607689/tablo",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9607689/tablo"
-                    }
-               }
-          },
-          {
-               "type": "station",
-               "title": "Медовый Дол (1470 км)",
-               "short_title": null,
-               "popular_title": "Медового Дола (1470 км)",
-               "code": "s9633775",
-               "lat": 57.76959431770364,
-               "lng": 56.38878247354095,
-               "station_type": "stop",
-               "station_type_name": "остановочный пункт",
-               "transport_type": "train",
-               "distance": 28.28547424387877,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9633775/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9633775/suburban"
                     }
                }
           },
@@ -6359,30 +5287,6 @@
           },
           {
                "type": "station",
-               "title": "Сылва",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9607499",
-               "lat": 58.044317,
-               "lng": 56.735665,
-               "station_type": "station",
-               "station_type_name": "станция",
-               "transport_type": "train",
-               "distance": 29.77645379373786,
-               "majority": 2,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9607499/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9607499/suburban"
-                    },
-                    "tablo": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9607499/tablo",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9607499/tablo"
-                    }
-               }
-          },
-          {
-               "type": "station",
                "title": "Рассольная",
                "short_title": null,
                "popular_title": null,
@@ -6983,26 +5887,6 @@
           },
           {
                "type": "station",
-               "title": "Куликовка",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9608139",
-               "lat": 58.041461,
-               "lng": 56.761927,
-               "station_type": "stop",
-               "station_type_name": "остановочный пункт",
-               "transport_type": "train",
-               "distance": 31.27561165124731,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9608139/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9608139/suburban"
-                    }
-               }
-          },
-          {
-               "type": "station",
                "title": "Гайвинский лесоучасток",
                "short_title": null,
                "popular_title": null,
@@ -7058,26 +5942,6 @@
                     "schedule": {
                          "desktop_url": "https://rasp.yandex.ru/station/9729023/schedule",
                          "touch_url": "https://t.rasp.yandex.ru/station/9729023/schedule"
-                    }
-               }
-          },
-          {
-               "type": "station",
-               "title": "Юг",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9607429",
-               "lat": 57.735899962418166,
-               "lng": 56.3785265767211,
-               "station_type": "station",
-               "station_type_name": "станция",
-               "transport_type": "train",
-               "distance": 31.687600091810424,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9607429/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9607429/suburban"
                     }
                }
           },
@@ -7363,26 +6227,6 @@
           },
           {
                "type": "station",
-               "title": "54 км",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9608142",
-               "lat": 58.037467,
-               "lng": 56.782011,
-               "station_type": "stop",
-               "station_type_name": "остановочный пункт",
-               "transport_type": "train",
-               "distance": 32.408773204319175,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9608142/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9608142/suburban"
-                    }
-               }
-          },
-          {
-               "type": "station",
                "title": "Магазин \"Алмаз\"",
                "short_title": null,
                "popular_title": null,
@@ -7583,26 +6427,6 @@
           },
           {
                "type": "station",
-               "title": "Увал",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9608039",
-               "lat": 58.140206,
-               "lng": 55.724885,
-               "station_type": "stop",
-               "station_type_name": "остановочный пункт",
-               "transport_type": "train",
-               "distance": 33.26055640987096,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9608039/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9608039/suburban"
-                    }
-               }
-          },
-          {
-               "type": "station",
                "title": "ДК Нефтяников",
                "short_title": null,
                "popular_title": null,
@@ -7618,26 +6442,6 @@
                     "schedule": {
                          "desktop_url": "https://rasp.yandex.ru/station/9826088/schedule",
                          "touch_url": "https://t.rasp.yandex.ru/station/9826088/schedule"
-                    }
-               }
-          },
-          {
-               "type": "station",
-               "title": "Дачная (22 км)",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9608147",
-               "lat": 58.246304,
-               "lng": 56.582794,
-               "station_type": "stop",
-               "station_type_name": "остановочный пункт",
-               "transport_type": "train",
-               "distance": 33.29315932287846,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9608147/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9608147/suburban"
                     }
                }
           },
@@ -7923,46 +6727,6 @@
           },
           {
                "type": "station",
-               "title": "1478 км",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9670915",
-               "lat": 57.708139,
-               "lng": 56.382022,
-               "station_type": "stop",
-               "station_type_name": "остановочный пункт",
-               "transport_type": "train",
-               "distance": 34.72349014417226,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9670915/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9670915/suburban"
-                    }
-               }
-          },
-          {
-               "type": "station",
-               "title": "Алебастрово",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9608143",
-               "lat": 58.039166,
-               "lng": 56.822349,
-               "station_type": "stop",
-               "station_type_name": "остановочный пункт",
-               "transport_type": "train",
-               "distance": 34.791188092950165,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9608143/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9608143/suburban"
-                    }
-               }
-          },
-          {
-               "type": "station",
                "title": "Улица Тепличная",
                "short_title": null,
                "popular_title": null,
@@ -8063,26 +6827,6 @@
           },
           {
                "type": "station",
-               "title": "Шабуничи",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9607800",
-               "lat": 58.13772,
-               "lng": 55.682884,
-               "station_type": "station",
-               "station_type_name": "станция",
-               "transport_type": "train",
-               "distance": 35.3910658918073,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9607800/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9607800/suburban"
-                    }
-               }
-          },
-          {
-               "type": "station",
                "title": "Конец-Бор",
                "short_title": null,
                "popular_title": null,
@@ -8158,26 +6902,6 @@
                     "schedule": {
                          "desktop_url": "https://rasp.yandex.ru/station/9728722/schedule",
                          "touch_url": "https://t.rasp.yandex.ru/station/9728722/schedule"
-                    }
-               }
-          },
-          {
-               "type": "station",
-               "title": "25 км",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9670918",
-               "lat": 58.264971,
-               "lng": 56.616277,
-               "station_type": "stop",
-               "station_type_name": "остановочный пункт",
-               "transport_type": "train",
-               "distance": 36.13704678729632,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9670918/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9670918/suburban"
                     }
                }
           },
@@ -8323,26 +7047,6 @@
           },
           {
                "type": "station",
-               "title": "Нижнее Брагино (1394 км)",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9607734",
-               "lat": 58.136538,
-               "lng": 55.646542,
-               "station_type": "stop",
-               "station_type_name": "остановочный пункт",
-               "transport_type": "train",
-               "distance": 37.31030152129993,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9607734/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9607734/suburban"
-                    }
-               }
-          },
-          {
-               "type": "station",
                "title": "Ключики",
                "short_title": "",
                "popular_title": "",
@@ -8358,26 +7062,6 @@
                     "schedule": {
                          "desktop_url": "https://rasp.yandex.ru/station/9729124/schedule",
                          "touch_url": "https://t.rasp.yandex.ru/station/9729124/schedule"
-                    }
-               }
-          },
-          {
-               "type": "station",
-               "title": "Дивья",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9607419",
-               "lat": 58.282758,
-               "lng": 56.611351,
-               "station_type": "station",
-               "station_type_name": "станция",
-               "transport_type": "train",
-               "distance": 37.53343877071342,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9607419/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9607419/suburban"
                     }
                }
           },
@@ -8418,26 +7102,6 @@
                     "schedule": {
                          "desktop_url": "https://rasp.yandex.ru/station/9881935/schedule",
                          "touch_url": "https://t.rasp.yandex.ru/station/9881935/schedule"
-                    }
-               }
-          },
-          {
-               "type": "station",
-               "title": "Янычи",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9608106",
-               "lat": 57.68648051020914,
-               "lng": 56.41685154492127,
-               "station_type": "stop",
-               "station_type_name": "остановочный пункт",
-               "transport_type": "train",
-               "distance": 37.60050825330573,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9608106/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9608106/suburban"
                     }
                }
           },
@@ -8643,26 +7307,6 @@
           },
           {
                "type": "station",
-               "title": "Путейская (29 км)",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9608148",
-               "lat": 58.303013,
-               "lng": 56.622074,
-               "station_type": "stop",
-               "station_type_name": "остановочный пункт",
-               "transport_type": "train",
-               "distance": 39.72869976354843,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9608148/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9608148/suburban"
-                    }
-               }
-          },
-          {
-               "type": "station",
                "title": "Переезд",
                "short_title": "",
                "popular_title": "",
@@ -8783,26 +7427,6 @@
           },
           {
                "type": "station",
-               "title": "Удалы",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9608040",
-               "lat": 58.13104,
-               "lng": 55.583249,
-               "station_type": "stop",
-               "station_type_name": "остановочный пункт",
-               "transport_type": "train",
-               "distance": 40.57961777395438,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9608040/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9608040/suburban"
-                    }
-               }
-          },
-          {
-               "type": "station",
                "title": "Уральский",
                "short_title": "",
                "popular_title": "Кассовый пункт Уральский",
@@ -8918,26 +7542,6 @@
                     "schedule": {
                          "desktop_url": "https://rasp.yandex.ru/station/9729250/schedule",
                          "touch_url": "https://t.rasp.yandex.ru/station/9729250/schedule"
-                    }
-               }
-          },
-          {
-               "type": "station",
-               "title": "Пасечный хутор (32 км)",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9608149",
-               "lat": 58.311981,
-               "lng": 56.662151,
-               "station_type": "stop",
-               "station_type_name": "остановочный пункт",
-               "transport_type": "train",
-               "distance": 41.91368252307723,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9608149/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9608149/suburban"
                     }
                }
           },
@@ -9163,46 +7767,6 @@
           },
           {
                "type": "station",
-               "title": "Валежная",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9607500",
-               "lat": 58.078081,
-               "lng": 56.962767,
-               "station_type": "stop",
-               "station_type_name": "остановочный пункт",
-               "transport_type": "train",
-               "distance": 43.54784001003578,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9607500/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9607500/suburban"
-                    }
-               }
-          },
-          {
-               "type": "station",
-               "title": "Кукуштан",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9607430",
-               "lat": 57.645188848158156,
-               "lng": 56.50079956085171,
-               "station_type": "station",
-               "station_type_name": "станция",
-               "transport_type": "train",
-               "distance": 43.56715463984642,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9607430/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9607430/suburban"
-                    }
-               }
-          },
-          {
-               "type": "station",
                "title": "Больница",
                "short_title": null,
                "popular_title": null,
@@ -9278,30 +7842,6 @@
                     "schedule": {
                          "desktop_url": "https://rasp.yandex.ru/station/9729869/schedule",
                          "touch_url": "https://t.rasp.yandex.ru/station/9729869/schedule"
-                    }
-               }
-          },
-          {
-               "type": "station",
-               "title": "Чайковская",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9607411",
-               "lat": 58.133552,
-               "lng": 55.524205,
-               "station_type": "station",
-               "station_type_name": "станция",
-               "transport_type": "train",
-               "distance": 43.95699152040963,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9607411/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9607411/suburban"
-                    },
-                    "train": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9607411/train",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9607411/train"
                     }
                }
           },
@@ -9507,26 +8047,6 @@
           },
           {
                "type": "station",
-               "title": "Платошино",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9670916",
-               "lat": 57.63300403049675,
-               "lng": 56.53722572744674,
-               "station_type": "stop",
-               "station_type_name": "остановочный пункт",
-               "transport_type": "train",
-               "distance": 45.63860170498501,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9670916/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9670916/suburban"
-                    }
-               }
-          },
-          {
-               "type": "station",
                "title": "Ключи",
                "short_title": "",
                "popular_title": "",
@@ -9562,30 +8082,6 @@
                     "schedule": {
                          "desktop_url": "https://rasp.yandex.ru/station/9729290/schedule",
                          "touch_url": "https://t.rasp.yandex.ru/station/9729290/schedule"
-                    }
-               }
-          },
-          {
-               "type": "station",
-               "title": "Полазна",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9608150",
-               "lat": 58.354226,
-               "lng": 56.670898,
-               "station_type": "stop",
-               "station_type_name": "остановочный пункт",
-               "transport_type": "train",
-               "distance": 46.03763905159799,
-               "majority": 2,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9608150/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9608150/suburban"
-                    },
-                    "tablo": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9608150/tablo",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9608150/tablo"
                     }
                }
           },
@@ -9771,26 +8267,6 @@
           },
           {
                "type": "station",
-               "title": "СНТ Вита (1492 км)",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9608107",
-               "lat": 57.62402683058134,
-               "lng": 56.56565674578762,
-               "station_type": "stop",
-               "station_type_name": "остановочный пункт",
-               "transport_type": "train",
-               "distance": 47.23411969582908,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9608107/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9608107/suburban"
-                    }
-               }
-          },
-          {
-               "type": "station",
                "title": "Полуденная-1",
                "short_title": null,
                "popular_title": null,
@@ -9826,26 +8302,6 @@
                     "schedule": {
                          "desktop_url": "https://rasp.yandex.ru/station/9729830/schedule",
                          "touch_url": "https://t.rasp.yandex.ru/station/9729830/schedule"
-                    }
-               }
-          },
-          {
-               "type": "station",
-               "title": "Вожаково",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9608041",
-               "lat": 58.150304,
-               "lng": 55.470949,
-               "station_type": "stop",
-               "station_type_name": "остановочный пункт",
-               "transport_type": "train",
-               "distance": 47.51117887682231,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9608041/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9608041/suburban"
                     }
                }
           },
@@ -9986,26 +8442,6 @@
                     "schedule": {
                          "desktop_url": "https://rasp.yandex.ru/station/9874851/schedule",
                          "touch_url": "https://t.rasp.yandex.ru/station/9874851/schedule"
-                    }
-               }
-          },
-          {
-               "type": "station",
-               "title": "Каменка (73 км)",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9633778",
-               "lat": 58.097314,
-               "lng": 57.062284,
-               "station_type": "stop",
-               "station_type_name": "остановочный пункт",
-               "transport_type": "train",
-               "distance": 49.687246625935146,
-               "majority": 4,
-               "type_choices": {
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9633778/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9633778/suburban"
                     }
                }
           },
