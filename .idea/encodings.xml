@@ -3,6 +3,9 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/last_request.json" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/last_request2.json" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/logs/log1.json" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/logs/log2.json" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/logs/log3.json" charset="windows-1251" />
     <file url="file://$PROJECT_DIR$/segments.json" charset="windows-1251" />
   </component>
 </project>
