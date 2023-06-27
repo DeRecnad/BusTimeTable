@@ -1,6 +1,7 @@
-{
+{"URL": "https://api.rasp.yandex.net/v3.0/nearest_stations/?apikey=0ab945f6-154d-41e2-9786-202cf947d47c&transport_types=bus,suburban,train&format=json&lat=58.010259&lng=56.234195&distance=50&lang=ru_RU&limit=1000",
+"data": {
      "pagination": {
-          "total": 500,
+          "total": 502,
           "limit": 1000,
           "offset": 0
      },
@@ -31,12 +32,12 @@
                "short_title": null,
                "popular_title": null,
                "code": "s9872482",
-               "lat": 58.007299664465734,
-               "lng": 56.24290870744377,
+               "lat": 58.00726549416725,
+               "lng": 56.24226497727973,
                "station_type": "bus_stop",
                "station_type_name": "автобусная остановка",
                "transport_type": "bus",
-               "distance": 0.6099123353638228,
+               "distance": 0.5805119237310531,
                "majority": 4,
                "type_choices": {
                     "schedule": {
@@ -295,12 +296,12 @@
                "short_title": "",
                "popular_title": "",
                "code": "s9729892",
-               "lat": 57.98593879424095,
-               "lng": 56.25782417130758,
+               "lat": 57.985283469389856,
+               "lng": 56.258671749355656,
                "station_type": "bus_stop",
                "station_type_name": "автобусная остановка",
                "transport_type": "bus",
-               "distance": 3.0425582213656464,
+               "distance": 3.130257652910937,
                "majority": 4,
                "type_choices": {
                     "schedule": {
@@ -479,26 +480,6 @@
           },
           {
                "type": "station",
-               "title": "Балхашская улица",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9872483",
-               "lat": 57.9880103620938,
-               "lng": 56.2927245858343,
-               "station_type": "bus_stop",
-               "station_type_name": "автобусная остановка",
-               "transport_type": "bus",
-               "distance": 4.245635536131217,
-               "majority": 4,
-               "type_choices": {
-                    "schedule": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9872483/schedule",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9872483/schedule"
-                    }
-               }
-          },
-          {
-               "type": "station",
                "title": "Пермь, автостанция Южная",
                "short_title": "",
                "popular_title": "Автостанция \"Южная\"",
@@ -514,6 +495,26 @@
                     "schedule": {
                          "desktop_url": "https://rasp.yandex.ru/station/9623290/schedule",
                          "touch_url": "https://t.rasp.yandex.ru/station/9623290/schedule"
+                    }
+               }
+          },
+          {
+               "type": "station",
+               "title": "Балхашская улица",
+               "short_title": null,
+               "popular_title": null,
+               "code": "s9872483",
+               "lat": 57.98784511676804,
+               "lng": 56.29351851970236,
+               "station_type": "bus_stop",
+               "station_type_name": "автобусная остановка",
+               "transport_type": "bus",
+               "distance": 4.294397919189993,
+               "majority": 4,
+               "type_choices": {
+                    "schedule": {
+                         "desktop_url": "https://rasp.yandex.ru/station/9872483/schedule",
+                         "touch_url": "https://t.rasp.yandex.ru/station/9872483/schedule"
                     }
                }
           },
@@ -714,6 +715,26 @@
                     "schedule": {
                          "desktop_url": "https://rasp.yandex.ru/station/9729227/schedule",
                          "touch_url": "https://t.rasp.yandex.ru/station/9729227/schedule"
+                    }
+               }
+          },
+          {
+               "type": "station",
+               "title": "Грибоедовский микрорайон",
+               "short_title": null,
+               "popular_title": null,
+               "code": "s9885321",
+               "lat": 58.00500919449585,
+               "lng": 56.33069977420848,
+               "station_type": "bus_stop",
+               "station_type_name": "автобусная остановка",
+               "transport_type": "bus",
+               "distance": 5.716767346075351,
+               "majority": 4,
+               "type_choices": {
+                    "schedule": {
+                         "desktop_url": "https://rasp.yandex.ru/station/9885321/schedule",
+                         "touch_url": "https://t.rasp.yandex.ru/station/9885321/schedule"
                     }
                }
           },
@@ -2946,6 +2967,26 @@
                     "schedule": {
                          "desktop_url": "https://rasp.yandex.ru/station/9729710/schedule",
                          "touch_url": "https://t.rasp.yandex.ru/station/9729710/schedule"
+                    }
+               }
+          },
+          {
+               "type": "station",
+               "title": "Малые Клестята, поворот",
+               "short_title": null,
+               "popular_title": null,
+               "code": "s9885320",
+               "lat": 57.85054836163165,
+               "lng": 56.33773689042479,
+               "station_type": "bus_stop",
+               "station_type_name": "автобусная остановка",
+               "transport_type": "bus",
+               "distance": 18.786957922381692,
+               "majority": 4,
+               "type_choices": {
+                    "schedule": {
+                         "desktop_url": "https://rasp.yandex.ru/station/9885320/schedule",
+                         "touch_url": "https://t.rasp.yandex.ru/station/9885320/schedule"
                     }
                }
           },
@@ -10050,4 +10091,5 @@
                }
           }
      ]
+}
 }

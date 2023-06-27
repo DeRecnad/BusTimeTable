@@ -1,0 +1,675 @@
+{"URL": "https://api.rasp.yandex.net/v3.0/search/?apikey=0ab945f6-154d-41e2-9786-202cf947d47c&format=json&from=s9607493&to=s9607416&lang=ru_RU&page=1&transport_types=bus,suburban,train&date=&limit=10000",
+"data": {
+     "search": {
+          "from": {
+               "type": "station",
+               "title": "Пермь-1",
+               "short_title": "",
+               "popular_title": "",
+               "code": "s9607493",
+               "station_type": "station",
+               "station_type_name": "станция",
+               "transport_type": "train"
+          },
+          "to": {
+               "type": "station",
+               "title": "Пермь-Сорт.",
+               "short_title": "",
+               "popular_title": "",
+               "code": "s9607416",
+               "station_type": "station",
+               "station_type_name": "станция",
+               "transport_type": "train"
+          },
+          "date": null
+     },
+     "segments": [
+          {
+               "thread": {
+                    "number": "6042/6041",
+                    "title": "Пермь-2 (кольцо)",
+                    "short_title": "Пермь-2 (кольцо)",
+                    "express_type": null,
+                    "transport_type": "suburban",
+                    "carrier": {
+                         "code": 2437,
+                         "title": "Пермская пригородная компания",
+                         "codes": {
+                              "sirena": null,
+                              "iata": null,
+                              "icao": null
+                         },
+                         "address": "614068 г.Пермь, ул.Петропавловская, 66",
+                         "url": "http://ppk59.ru/",
+                         "email": null,
+                         "contacts": "",
+                         "phone": "",
+                         "logo": null,
+                         "logo_svg": null
+                    },
+                    "uid": "6042x6041_1_9607774_g23_4",
+                    "vehicle": null,
+                    "transport_subtype": {
+                         "title": "«Ласточка»",
+                         "code": "last",
+                         "color": "#CC6600"
+                    },
+                    "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2023-06-27&uid=6042x6041_1_9607774_g23_4"
+               },
+               "stops": "кроме: КамГЭС, 17 км, Блочная",
+               "from": {
+                    "type": "station",
+                    "title": "Пермь-1",
+                    "short_title": "",
+                    "popular_title": "",
+                    "code": "s9607493",
+                    "station_type": "station",
+                    "station_type_name": "станция",
+                    "transport_type": "train"
+               },
+               "to": {
+                    "type": "station",
+                    "title": "Пермь-Сорт.",
+                    "short_title": "",
+                    "popular_title": "",
+                    "code": "s9607416",
+                    "station_type": "station",
+                    "station_type_name": "станция",
+                    "transport_type": "train"
+               },
+               "departure_platform": "",
+               "arrival_platform": "",
+               "departure_terminal": null,
+               "arrival_terminal": null,
+               "duration": 3480.0,
+               "days": "ежедневно",
+               "except_days": "",
+               "departure": "06:34:00",
+               "arrival": "07:32:00",
+               "start_date": "2023-06-27"
+          },
+          {
+               "thread": {
+                    "number": "6011",
+                    "title": "Голованово — Краснокамск",
+                    "short_title": "Голованово — Краснокамск",
+                    "express_type": null,
+                    "transport_type": "suburban",
+                    "carrier": {
+                         "code": 2437,
+                         "title": "Пермская пригородная компания",
+                         "codes": {
+                              "sirena": null,
+                              "iata": null,
+                              "icao": null
+                         },
+                         "address": "614068 г.Пермь, ул.Петропавловская, 66",
+                         "url": "http://ppk59.ru/",
+                         "email": null,
+                         "contacts": "",
+                         "phone": "",
+                         "logo": null,
+                         "logo_svg": null
+                    },
+                    "uid": "6011_0_9607572_g23_4",
+                    "vehicle": null,
+                    "transport_subtype": {
+                         "title": "«Ласточка»",
+                         "code": "last",
+                         "color": "#CC6600"
+                    },
+                    "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2023-06-27&uid=6011_0_9607572_g23_4"
+               },
+               "stops": "везде",
+               "from": {
+                    "type": "station",
+                    "title": "Пермь-1",
+                    "short_title": "",
+                    "popular_title": "",
+                    "code": "s9607493",
+                    "station_type": "station",
+                    "station_type_name": "станция",
+                    "transport_type": "train"
+               },
+               "to": {
+                    "type": "station",
+                    "title": "Пермь-Сорт.",
+                    "short_title": "",
+                    "popular_title": "",
+                    "code": "s9607416",
+                    "station_type": "station",
+                    "station_type_name": "станция",
+                    "transport_type": "train"
+               },
+               "departure_platform": "",
+               "arrival_platform": "",
+               "departure_terminal": null,
+               "arrival_terminal": null,
+               "duration": 1020.0,
+               "days": "ежедневно",
+               "except_days": "",
+               "departure": "09:15:00",
+               "arrival": "09:32:00",
+               "start_date": "2023-06-27"
+          },
+          {
+               "thread": {
+                    "number": "6013",
+                    "title": "Голованово — Краснокамск",
+                    "short_title": "Голованово — Краснокамск",
+                    "express_type": null,
+                    "transport_type": "suburban",
+                    "carrier": {
+                         "code": 2437,
+                         "title": "Пермская пригородная компания",
+                         "codes": {
+                              "sirena": null,
+                              "iata": null,
+                              "icao": null
+                         },
+                         "address": "614068 г.Пермь, ул.Петропавловская, 66",
+                         "url": "http://ppk59.ru/",
+                         "email": null,
+                         "contacts": "",
+                         "phone": "",
+                         "logo": null,
+                         "logo_svg": null
+                    },
+                    "uid": "6013_1_9607572_g23_4",
+                    "vehicle": null,
+                    "transport_subtype": {
+                         "title": "«Ласточка»",
+                         "code": "last",
+                         "color": "#CC6600"
+                    },
+                    "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2023-06-27&uid=6013_1_9607572_g23_4"
+               },
+               "stops": "везде",
+               "from": {
+                    "type": "station",
+                    "title": "Пермь-1",
+                    "short_title": "",
+                    "popular_title": "",
+                    "code": "s9607493",
+                    "station_type": "station",
+                    "station_type_name": "станция",
+                    "transport_type": "train"
+               },
+               "to": {
+                    "type": "station",
+                    "title": "Пермь-Сорт.",
+                    "short_title": "",
+                    "popular_title": "",
+                    "code": "s9607416",
+                    "station_type": "station",
+                    "station_type_name": "станция",
+                    "transport_type": "train"
+               },
+               "departure_platform": "",
+               "arrival_platform": "",
+               "departure_terminal": null,
+               "arrival_terminal": null,
+               "duration": 960.0,
+               "days": "ежедневно",
+               "except_days": "",
+               "departure": "13:09:00",
+               "arrival": "13:25:00",
+               "start_date": "2023-06-27"
+          },
+          {
+               "thread": {
+                    "number": "6015",
+                    "title": "Лёвшино — Краснокамск",
+                    "short_title": "Лёвшино — Краснокамск",
+                    "express_type": null,
+                    "transport_type": "suburban",
+                    "carrier": {
+                         "code": 2437,
+                         "title": "Пермская пригородная компания",
+                         "codes": {
+                              "sirena": null,
+                              "iata": null,
+                              "icao": null
+                         },
+                         "address": "614068 г.Пермь, ул.Петропавловская, 66",
+                         "url": "http://ppk59.ru/",
+                         "email": null,
+                         "contacts": "",
+                         "phone": "",
+                         "logo": null,
+                         "logo_svg": null
+                    },
+                    "uid": "6015_1_9607417_g23_4",
+                    "vehicle": null,
+                    "transport_subtype": {
+                         "title": "«Ласточка»",
+                         "code": "last",
+                         "color": "#CC6600"
+                    },
+                    "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2023-06-27&uid=6015_1_9607417_g23_4"
+               },
+               "stops": "везде",
+               "from": {
+                    "type": "station",
+                    "title": "Пермь-1",
+                    "short_title": "",
+                    "popular_title": "",
+                    "code": "s9607493",
+                    "station_type": "station",
+                    "station_type_name": "станция",
+                    "transport_type": "train"
+               },
+               "to": {
+                    "type": "station",
+                    "title": "Пермь-Сорт.",
+                    "short_title": "",
+                    "popular_title": "",
+                    "code": "s9607416",
+                    "station_type": "station",
+                    "station_type_name": "станция",
+                    "transport_type": "train"
+               },
+               "departure_platform": "",
+               "arrival_platform": "",
+               "departure_terminal": null,
+               "arrival_terminal": null,
+               "duration": 1080.0,
+               "days": "ежедневно",
+               "except_days": "",
+               "departure": "15:03:00",
+               "arrival": "15:21:00",
+               "start_date": "2023-06-27"
+          },
+          {
+               "thread": {
+                    "number": "6046/6045",
+                    "title": "Пермь-2 (кольцо)",
+                    "short_title": "Пермь-2 (кольцо)",
+                    "express_type": null,
+                    "transport_type": "suburban",
+                    "carrier": {
+                         "code": 2437,
+                         "title": "Пермская пригородная компания",
+                         "codes": {
+                              "sirena": null,
+                              "iata": null,
+                              "icao": null
+                         },
+                         "address": "614068 г.Пермь, ул.Петропавловская, 66",
+                         "url": "http://ppk59.ru/",
+                         "email": null,
+                         "contacts": "",
+                         "phone": "",
+                         "logo": null,
+                         "logo_svg": null
+                    },
+                    "uid": "6046x6045_1_9607774_g23_4",
+                    "vehicle": null,
+                    "transport_subtype": {
+                         "title": "«Ласточка»",
+                         "code": "last",
+                         "color": "#CC6600"
+                    },
+                    "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2023-06-27&uid=6046x6045_1_9607774_g23_4"
+               },
+               "stops": "кроме: КамГЭС, 17 км, Блочная",
+               "from": {
+                    "type": "station",
+                    "title": "Пермь-1",
+                    "short_title": "",
+                    "popular_title": "",
+                    "code": "s9607493",
+                    "station_type": "station",
+                    "station_type_name": "станция",
+                    "transport_type": "train"
+               },
+               "to": {
+                    "type": "station",
+                    "title": "Пермь-Сорт.",
+                    "short_title": "",
+                    "popular_title": "",
+                    "code": "s9607416",
+                    "station_type": "station",
+                    "station_type_name": "станция",
+                    "transport_type": "train"
+               },
+               "departure_platform": "",
+               "arrival_platform": "",
+               "departure_terminal": null,
+               "arrival_terminal": null,
+               "duration": 3360.0,
+               "days": "ежедневно",
+               "except_days": "",
+               "departure": "15:18:00",
+               "arrival": "16:14:00",
+               "start_date": "2023-06-27"
+          },
+          {
+               "thread": {
+                    "number": "6017",
+                    "title": "Лёвшино — Краснокамск",
+                    "short_title": "Лёвшино — Краснокамск",
+                    "express_type": null,
+                    "transport_type": "suburban",
+                    "carrier": {
+                         "code": 2437,
+                         "title": "Пермская пригородная компания",
+                         "codes": {
+                              "sirena": null,
+                              "iata": null,
+                              "icao": null
+                         },
+                         "address": "614068 г.Пермь, ул.Петропавловская, 66",
+                         "url": "http://ppk59.ru/",
+                         "email": null,
+                         "contacts": "",
+                         "phone": "",
+                         "logo": null,
+                         "logo_svg": null
+                    },
+                    "uid": "6017_0_9607417_g23_4",
+                    "vehicle": null,
+                    "transport_subtype": {
+                         "title": "«Ласточка»",
+                         "code": "last",
+                         "color": "#CC6600"
+                    },
+                    "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2023-06-27&uid=6017_0_9607417_g23_4"
+               },
+               "stops": "везде",
+               "from": {
+                    "type": "station",
+                    "title": "Пермь-1",
+                    "short_title": "",
+                    "popular_title": "",
+                    "code": "s9607493",
+                    "station_type": "station",
+                    "station_type_name": "станция",
+                    "transport_type": "train"
+               },
+               "to": {
+                    "type": "station",
+                    "title": "Пермь-Сорт.",
+                    "short_title": "",
+                    "popular_title": "",
+                    "code": "s9607416",
+                    "station_type": "station",
+                    "station_type_name": "станция",
+                    "transport_type": "train"
+               },
+               "departure_platform": "",
+               "arrival_platform": "",
+               "departure_terminal": null,
+               "arrival_terminal": null,
+               "duration": 1140.0,
+               "days": "ежедневно",
+               "except_days": "",
+               "departure": "17:11:00",
+               "arrival": "17:30:00",
+               "start_date": "2023-06-27"
+          },
+          {
+               "thread": {
+                    "number": "6119",
+                    "title": "Голованово — Оверята",
+                    "short_title": "Голованово — Оверята",
+                    "express_type": null,
+                    "transport_type": "suburban",
+                    "carrier": {
+                         "code": 2437,
+                         "title": "Пермская пригородная компания",
+                         "codes": {
+                              "sirena": null,
+                              "iata": null,
+                              "icao": null
+                         },
+                         "address": "614068 г.Пермь, ул.Петропавловская, 66",
+                         "url": "http://ppk59.ru/",
+                         "email": null,
+                         "contacts": "",
+                         "phone": "",
+                         "logo": null,
+                         "logo_svg": null
+                    },
+                    "uid": "6119_0_9607572_g23_4",
+                    "vehicle": null,
+                    "transport_subtype": {
+                         "title": "городская электричка",
+                         "code": "city",
+                         "color": "#0047ab"
+                    },
+                    "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2023-06-27&uid=6119_0_9607572_g23_4"
+               },
+               "stops": "везде",
+               "from": {
+                    "type": "station",
+                    "title": "Пермь-1",
+                    "short_title": "",
+                    "popular_title": "",
+                    "code": "s9607493",
+                    "station_type": "station",
+                    "station_type_name": "станция",
+                    "transport_type": "train"
+               },
+               "to": {
+                    "type": "station",
+                    "title": "Пермь-Сорт.",
+                    "short_title": "",
+                    "popular_title": "",
+                    "code": "s9607416",
+                    "station_type": "station",
+                    "station_type_name": "станция",
+                    "transport_type": "train"
+               },
+               "departure_platform": "",
+               "arrival_platform": "",
+               "departure_terminal": null,
+               "arrival_terminal": null,
+               "duration": 1020.0,
+               "days": "ежедневно",
+               "except_days": "",
+               "departure": "18:40:00",
+               "arrival": "18:57:00",
+               "start_date": "2023-06-27"
+          },
+          {
+               "thread": {
+                    "number": "6019",
+                    "title": "Голованово — Краснокамск",
+                    "short_title": "Голованово — Краснокамск",
+                    "express_type": null,
+                    "transport_type": "suburban",
+                    "carrier": {
+                         "code": 2437,
+                         "title": "Пермская пригородная компания",
+                         "codes": {
+                              "sirena": null,
+                              "iata": null,
+                              "icao": null
+                         },
+                         "address": "614068 г.Пермь, ул.Петропавловская, 66",
+                         "url": "http://ppk59.ru/",
+                         "email": null,
+                         "contacts": "",
+                         "phone": "",
+                         "logo": null,
+                         "logo_svg": null
+                    },
+                    "uid": "6019_0_9607572_g23_4",
+                    "vehicle": null,
+                    "transport_subtype": {
+                         "title": "«Ласточка»",
+                         "code": "last",
+                         "color": "#CC6600"
+                    },
+                    "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2023-06-27&uid=6019_0_9607572_g23_4"
+               },
+               "stops": "везде",
+               "from": {
+                    "type": "station",
+                    "title": "Пермь-1",
+                    "short_title": "",
+                    "popular_title": "",
+                    "code": "s9607493",
+                    "station_type": "station",
+                    "station_type_name": "станция",
+                    "transport_type": "train"
+               },
+               "to": {
+                    "type": "station",
+                    "title": "Пермь-Сорт.",
+                    "short_title": "",
+                    "popular_title": "",
+                    "code": "s9607416",
+                    "station_type": "station",
+                    "station_type_name": "станция",
+                    "transport_type": "train"
+               },
+               "departure_platform": "",
+               "arrival_platform": "",
+               "departure_terminal": null,
+               "arrival_terminal": null,
+               "duration": 2580.0,
+               "days": "только 25, 26, 27, 28, 29, 30 июня, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31 июля, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31 августа, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 сентября",
+               "except_days": "",
+               "departure": "20:25:00",
+               "arrival": "21:08:00",
+               "start_date": "2023-06-27"
+          },
+          {
+               "thread": {
+                    "number": "6019",
+                    "title": "Голованово — Краснокамск",
+                    "short_title": "Голованово — Краснокамск",
+                    "express_type": null,
+                    "transport_type": "suburban",
+                    "carrier": {
+                         "code": 2437,
+                         "title": "Пермская пригородная компания",
+                         "codes": {
+                              "sirena": null,
+                              "iata": null,
+                              "icao": null
+                         },
+                         "address": "614068 г.Пермь, ул.Петропавловская, 66",
+                         "url": "http://ppk59.ru/",
+                         "email": null,
+                         "contacts": "",
+                         "phone": "",
+                         "logo": null,
+                         "logo_svg": null
+                    },
+                    "uid": "6019_1_9607572_g23_4",
+                    "vehicle": null,
+                    "transport_subtype": {
+                         "title": "«Ласточка»",
+                         "code": "last",
+                         "color": "#CC6600"
+                    },
+                    "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2023-09-12&uid=6019_1_9607572_g23_4"
+               },
+               "stops": "везде",
+               "from": {
+                    "type": "station",
+                    "title": "Пермь-1",
+                    "short_title": "",
+                    "popular_title": "",
+                    "code": "s9607493",
+                    "station_type": "station",
+                    "station_type_name": "станция",
+                    "transport_type": "train"
+               },
+               "to": {
+                    "type": "station",
+                    "title": "Пермь-Сорт.",
+                    "short_title": "",
+                    "popular_title": "",
+                    "code": "s9607416",
+                    "station_type": "station",
+                    "station_type_name": "станция",
+                    "transport_type": "train"
+               },
+               "departure_platform": "",
+               "arrival_platform": "",
+               "departure_terminal": null,
+               "arrival_terminal": null,
+               "duration": 1560.0,
+               "days": "ежедневно",
+               "except_days": "25, 26, 27, 28, 29, 30 июня, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31 июля, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31 августа, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 сентября",
+               "departure": "20:25:00",
+               "arrival": "20:51:00",
+               "start_date": "2023-09-12"
+          },
+          {
+               "thread": {
+                    "number": "6052/6051",
+                    "title": "Пермь-2 (кольцо)",
+                    "short_title": "Пермь-2 (кольцо)",
+                    "express_type": null,
+                    "transport_type": "suburban",
+                    "carrier": {
+                         "code": 2437,
+                         "title": "Пермская пригородная компания",
+                         "codes": {
+                              "sirena": null,
+                              "iata": null,
+                              "icao": null
+                         },
+                         "address": "614068 г.Пермь, ул.Петропавловская, 66",
+                         "url": "http://ppk59.ru/",
+                         "email": null,
+                         "contacts": "",
+                         "phone": "",
+                         "logo": null,
+                         "logo_svg": null
+                    },
+                    "uid": "6052x6051_1_9607774_g23_4",
+                    "vehicle": null,
+                    "transport_subtype": {
+                         "title": "«Ласточка»",
+                         "code": "last",
+                         "color": "#CC6600"
+                    },
+                    "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2023-06-27&uid=6052x6051_1_9607774_g23_4"
+               },
+               "stops": "кроме: КамГЭС, 17 км, Блочная",
+               "from": {
+                    "type": "station",
+                    "title": "Пермь-1",
+                    "short_title": "",
+                    "popular_title": "",
+                    "code": "s9607493",
+                    "station_type": "station",
+                    "station_type_name": "станция",
+                    "transport_type": "train"
+               },
+               "to": {
+                    "type": "station",
+                    "title": "Пермь-Сорт.",
+                    "short_title": "",
+                    "popular_title": "",
+                    "code": "s9607416",
+                    "station_type": "station",
+                    "station_type_name": "станция",
+                    "transport_type": "train"
+               },
+               "departure_platform": "",
+               "arrival_platform": "",
+               "departure_terminal": null,
+               "arrival_terminal": null,
+               "duration": 3360.0,
+               "days": "ежедневно",
+               "except_days": "",
+               "departure": "21:13:00",
+               "arrival": "22:09:00",
+               "start_date": "2023-06-27"
+          }
+     ],
+     "interval_segments": [],
+     "pagination": {
+          "total": 10,
+          "limit": 10000,
+          "offset": 0
+     }
+}
+}
