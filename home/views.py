@@ -99,7 +99,7 @@ def index(request):
                             temp.append(transfers['segments'][i]['departure'][11:16])
                             temp.append(transfers['segments'][i]['start_date'])
                             temp.append(transfers['segments'][i]['thread']['title'])
-                            temp.append(str(int(str(datetime.datetime(1, 1, 1, int(transfers['segments'][i]['arrival'][11:13]), int(transfers['segments'][i]['arrival'][14:16])) - datetime.datetime(1, 1, 1, int(transfers['segments'][i]['departure'][11:13]), int(transfers['segments'][i]['departure'][14:16])))[2:4]))+' мин')
+                            temp.append(str(datetime.datetime(1, 1, 1, int(transfers['segments'][i]['arrival'][11:13]), int(transfers['segments'][i]['arrival'][14:16])) - datetime.datetime(1, 1, 1, int(transfers['segments'][i]['departure'][11:13]), int(transfers['segments'][i]['departure'][14:16])))[0:4]+'')
                             temp.append(transfers['segments'][i]['thread']['transport_type'])
                             Sent.append(temp)
             else:

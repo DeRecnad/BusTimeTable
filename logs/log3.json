@@ -1,29 +1,181 @@
-{"URL": "https://api.rasp.yandex.net/v3.0/search/?apikey=0ab945f6-154d-41e2-9786-202cf947d47c&format=json&from=s9607900&to=s9608102&lang=ru_RU&page=1&transport_types=bus,suburban,train&date=&limit=10000",
+{"URL": "https://api.rasp.yandex.net/v3.0/search/?apikey=0ab945f6-154d-41e2-9786-202cf947d47c&format=json&from=s9607774&to=s9607430&lang=ru_RU&page=1&transport_types=bus,suburban,train&date=2023-06-29&limit=10000",
 "data": {
      "search": {
           "from": {
                "type": "station",
-               "title": "Язовая",
-               "short_title": null,
-               "popular_title": null,
-               "code": "s9607900",
-               "station_type": "stop",
-               "station_type_name": "остановочный пункт",
+               "title": "Пермь-2",
+               "short_title": "",
+               "popular_title": "",
+               "code": "s9607774",
+               "station_type": "station",
+               "station_type_name": "станция",
                "transport_type": "train"
           },
           "to": {
                "type": "station",
-               "title": "Кочкино",
+               "title": "Кукуштан",
                "short_title": null,
                "popular_title": null,
-               "code": "s9608102",
-               "station_type": "stop",
-               "station_type_name": "остановочный пункт",
+               "code": "s9607430",
+               "station_type": "station",
+               "station_type_name": "станция",
                "transport_type": "train"
           },
-          "date": null
+          "date": "2023-06-29"
      },
      "segments": [
+          {
+               "thread": {
+                    "number": "6002/7162/7176",
+                    "title": "Верещагино — Шаля",
+                    "short_title": "Верещагино — Шаля",
+                    "express_type": null,
+                    "transport_type": "suburban",
+                    "carrier": {
+                         "code": 61742,
+                         "title": "Свердловская ППК/Пермская ППК",
+                         "codes": {
+                              "sirena": null,
+                              "iata": null,
+                              "icao": null
+                         },
+                         "address": "",
+                         "url": "",
+                         "email": "",
+                         "contacts": "",
+                         "phone": "",
+                         "logo": null,
+                         "logo_svg": null
+                    },
+                    "uid": "6002x7162x7176_0_9607414_g23_4",
+                    "vehicle": null,
+                    "transport_subtype": {
+                         "title": "Пригородный поезд",
+                         "code": "suburban",
+                         "color": "#CC6600"
+                    },
+                    "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2023-06-29&uid=6002x7162x7176_0_9607414_g23_4"
+               },
+               "stops": "везде",
+               "from": {
+                    "type": "station",
+                    "title": "Пермь-2",
+                    "short_title": "",
+                    "popular_title": "",
+                    "code": "s9607774",
+                    "station_type": "station",
+                    "station_type_name": "станция",
+                    "transport_type": "train"
+               },
+               "to": {
+                    "type": "station",
+                    "title": "Кукуштан",
+                    "short_title": null,
+                    "popular_title": null,
+                    "code": "s9607430",
+                    "station_type": "station",
+                    "station_type_name": "станция",
+                    "transport_type": "train"
+               },
+               "departure_platform": "",
+               "arrival_platform": "",
+               "departure_terminal": null,
+               "arrival_terminal": null,
+               "duration": 4200.0,
+               "has_transfers": false,
+               "tickets_info": {
+                    "et_marker": false,
+                    "places": [
+                         {
+                              "name": null,
+                              "price": {
+                                   "whole": 122,
+                                   "cents": 0
+                              },
+                              "currency": "RUB"
+                         }
+                    ]
+               },
+               "departure": "2023-06-29T07:11:00+05:00",
+               "arrival": "2023-06-29T08:21:00+05:00",
+               "start_date": "2023-06-29"
+          },
+          {
+               "thread": {
+                    "number": "7144/7192",
+                    "title": "Верещагино — Кунгур",
+                    "short_title": "Верещагино — Кунгур",
+                    "express_type": null,
+                    "transport_type": "suburban",
+                    "carrier": {
+                         "code": 2437,
+                         "title": "Пермская пригородная компания",
+                         "codes": {
+                              "sirena": null,
+                              "iata": null,
+                              "icao": null
+                         },
+                         "address": "614068 г.Пермь, ул.Петропавловская, 66",
+                         "url": "http://ppk59.ru/",
+                         "email": null,
+                         "contacts": "",
+                         "phone": "",
+                         "logo": null,
+                         "logo_svg": null
+                    },
+                    "uid": "7144x7192_0_9607414_g23_4",
+                    "vehicle": null,
+                    "transport_subtype": {
+                         "title": "«Ласточка»",
+                         "code": "last",
+                         "color": "#CC6600"
+                    },
+                    "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2023-06-29&uid=7144x7192_0_9607414_g23_4"
+               },
+               "stops": "везде",
+               "from": {
+                    "type": "station",
+                    "title": "Пермь-2",
+                    "short_title": "",
+                    "popular_title": "",
+                    "code": "s9607774",
+                    "station_type": "station",
+                    "station_type_name": "станция",
+                    "transport_type": "train"
+               },
+               "to": {
+                    "type": "station",
+                    "title": "Кукуштан",
+                    "short_title": null,
+                    "popular_title": null,
+                    "code": "s9607430",
+                    "station_type": "station",
+                    "station_type_name": "станция",
+                    "transport_type": "train"
+               },
+               "departure_platform": "",
+               "arrival_platform": "",
+               "departure_terminal": null,
+               "arrival_terminal": null,
+               "duration": 4020.0,
+               "has_transfers": false,
+               "tickets_info": {
+                    "et_marker": false,
+                    "places": [
+                         {
+                              "name": null,
+                              "price": {
+                                   "whole": 122,
+                                   "cents": 0
+                              },
+                              "currency": "RUB"
+                         }
+                    ]
+               },
+               "departure": "2023-06-29T08:44:00+05:00",
+               "arrival": "2023-06-29T09:51:00+05:00",
+               "start_date": "2023-06-29"
+          },
           {
                "thread": {
                     "number": "6105/7166",
@@ -54,45 +206,57 @@
                          "code": "last",
                          "color": "#CC6600"
                     },
-                    "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2023-06-27&uid=6105x7166_0_9607417_g23_4"
+                    "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2023-06-29&uid=6105x7166_0_9607417_g23_4"
                },
                "stops": "везде",
                "from": {
                     "type": "station",
-                    "title": "Язовая",
-                    "short_title": null,
-                    "popular_title": null,
-                    "code": "s9607900",
-                    "station_type": "stop",
-                    "station_type_name": "остановочный пункт",
+                    "title": "Пермь-2",
+                    "short_title": "",
+                    "popular_title": "",
+                    "code": "s9607774",
+                    "station_type": "station",
+                    "station_type_name": "станция",
                     "transport_type": "train"
                },
                "to": {
                     "type": "station",
-                    "title": "Кочкино",
+                    "title": "Кукуштан",
                     "short_title": null,
                     "popular_title": null,
-                    "code": "s9608102",
-                    "station_type": "stop",
-                    "station_type_name": "остановочный пункт",
+                    "code": "s9607430",
+                    "station_type": "station",
+                    "station_type_name": "станция",
                     "transport_type": "train"
                },
                "departure_platform": "",
                "arrival_platform": "",
                "departure_terminal": null,
                "arrival_terminal": null,
-               "duration": 3900.0,
-               "days": "только 25, 26, 27, 28, 29, 30 июня, 1, 2, 3, 4 июля",
-               "except_days": "",
-               "departure": "10:55:00",
-               "arrival": "12:00:00",
-               "start_date": "2023-06-27"
+               "duration": 4140.0,
+               "has_transfers": false,
+               "tickets_info": {
+                    "et_marker": false,
+                    "places": [
+                         {
+                              "name": null,
+                              "price": {
+                                   "whole": 122,
+                                   "cents": 0
+                              },
+                              "currency": "RUB"
+                         }
+                    ]
+               },
+               "departure": "2023-06-29T11:32:00+05:00",
+               "arrival": "2023-06-29T12:41:00+05:00",
+               "start_date": "2023-06-29"
           },
           {
                "thread": {
-                    "number": "6105/7166",
-                    "title": "Лёвшино — Кордон",
-                    "short_title": "Лёвшино — Кордон",
+                    "number": "7164",
+                    "title": "Пермь-2 — Кишерть",
+                    "short_title": "Пермь-2 — Кишерть",
                     "express_type": null,
                     "transport_type": "suburban",
                     "carrier": {
@@ -111,51 +275,291 @@
                          "logo": null,
                          "logo_svg": null
                     },
-                    "uid": "6105x7166_1_9607417_g23_4",
+                    "uid": "7164_0_9607774_g23_4",
                     "vehicle": null,
                     "transport_subtype": {
                          "title": "«Ласточка»",
                          "code": "last",
                          "color": "#CC6600"
                     },
-                    "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2023-07-05&uid=6105x7166_1_9607417_g23_4"
+                    "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2023-06-29&uid=7164_0_9607774_g23_4"
                },
-               "stops": "везде",
+               "stops": "Бахаревка, Ферма, Мулянка, Юг, Кукуштан",
                "from": {
                     "type": "station",
-                    "title": "Язовая",
-                    "short_title": null,
-                    "popular_title": null,
-                    "code": "s9607900",
-                    "station_type": "stop",
-                    "station_type_name": "остановочный пункт",
+                    "title": "Пермь-2",
+                    "short_title": "",
+                    "popular_title": "",
+                    "code": "s9607774",
+                    "station_type": "station",
+                    "station_type_name": "станция",
                     "transport_type": "train"
                },
                "to": {
                     "type": "station",
-                    "title": "Кочкино",
+                    "title": "Кукуштан",
                     "short_title": null,
                     "popular_title": null,
-                    "code": "s9608102",
-                    "station_type": "stop",
-                    "station_type_name": "остановочный пункт",
+                    "code": "s9607430",
+                    "station_type": "station",
+                    "station_type_name": "станция",
                     "transport_type": "train"
                },
                "departure_platform": "",
                "arrival_platform": "",
                "departure_terminal": null,
                "arrival_terminal": null,
-               "duration": 3900.0,
-               "days": "ежедневно",
-               "except_days": "25, 26, 27, 28, 29, 30 июня, 1, 2, 3, 4 июля",
-               "departure": "10:55:00",
-               "arrival": "12:00:00",
-               "start_date": "2023-07-05"
+               "duration": 2940.0,
+               "has_transfers": false,
+               "tickets_info": {
+                    "et_marker": false,
+                    "places": [
+                         {
+                              "name": null,
+                              "price": {
+                                   "whole": 122,
+                                   "cents": 0
+                              },
+                              "currency": "RUB"
+                         }
+                    ]
+               },
+               "departure": "2023-06-29T13:30:00+05:00",
+               "arrival": "2023-06-29T14:19:00+05:00",
+               "start_date": "2023-06-29"
+          },
+          {
+               "thread": {
+                    "number": "7146/7170",
+                    "title": "Верещагино — Кишерть",
+                    "short_title": "Верещагино — Кишерть",
+                    "express_type": null,
+                    "transport_type": "suburban",
+                    "carrier": {
+                         "code": 2437,
+                         "title": "Пермская пригородная компания",
+                         "codes": {
+                              "sirena": null,
+                              "iata": null,
+                              "icao": null
+                         },
+                         "address": "614068 г.Пермь, ул.Петропавловская, 66",
+                         "url": "http://ppk59.ru/",
+                         "email": null,
+                         "contacts": "",
+                         "phone": "",
+                         "logo": null,
+                         "logo_svg": null
+                    },
+                    "uid": "7146x7170_0_9607414_g23_4",
+                    "vehicle": null,
+                    "transport_subtype": {
+                         "title": "«Ласточка»",
+                         "code": "last",
+                         "color": "#CC6600"
+                    },
+                    "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2023-06-29&uid=7146x7170_0_9607414_g23_4"
+               },
+               "stops": "Бахаревка, Ферма, Мулянка, Юг, Кукуштан",
+               "from": {
+                    "type": "station",
+                    "title": "Пермь-2",
+                    "short_title": "",
+                    "popular_title": "",
+                    "code": "s9607774",
+                    "station_type": "station",
+                    "station_type_name": "станция",
+                    "transport_type": "train"
+               },
+               "to": {
+                    "type": "station",
+                    "title": "Кукуштан",
+                    "short_title": null,
+                    "popular_title": null,
+                    "code": "s9607430",
+                    "station_type": "station",
+                    "station_type_name": "станция",
+                    "transport_type": "train"
+               },
+               "departure_platform": "",
+               "arrival_platform": "",
+               "departure_terminal": null,
+               "arrival_terminal": null,
+               "duration": 2940.0,
+               "has_transfers": false,
+               "tickets_info": {
+                    "et_marker": false,
+                    "places": [
+                         {
+                              "name": null,
+                              "price": {
+                                   "whole": 122,
+                                   "cents": 0
+                              },
+                              "currency": "RUB"
+                         }
+                    ]
+               },
+               "departure": "2023-06-29T17:50:00+05:00",
+               "arrival": "2023-06-29T18:39:00+05:00",
+               "start_date": "2023-06-29"
+          },
+          {
+               "thread": {
+                    "number": "7172/7178",
+                    "title": "Пермь-2 — Шаля",
+                    "short_title": "Пермь-2 — Шаля",
+                    "express_type": null,
+                    "transport_type": "suburban",
+                    "carrier": {
+                         "code": 61742,
+                         "title": "Свердловская ППК/Пермская ППК",
+                         "codes": {
+                              "sirena": null,
+                              "iata": null,
+                              "icao": null
+                         },
+                         "address": "",
+                         "url": "",
+                         "email": "",
+                         "contacts": "",
+                         "phone": "",
+                         "logo": null,
+                         "logo_svg": null
+                    },
+                    "uid": "7172x7178_1_9607774_g23_4",
+                    "vehicle": null,
+                    "transport_subtype": {
+                         "title": "Пригородный поезд",
+                         "code": "suburban",
+                         "color": "#CC6600"
+                    },
+                    "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2023-06-29&uid=7172x7178_1_9607774_g23_4"
+               },
+               "stops": "везде",
+               "from": {
+                    "type": "station",
+                    "title": "Пермь-2",
+                    "short_title": "",
+                    "popular_title": "",
+                    "code": "s9607774",
+                    "station_type": "station",
+                    "station_type_name": "станция",
+                    "transport_type": "train"
+               },
+               "to": {
+                    "type": "station",
+                    "title": "Кукуштан",
+                    "short_title": null,
+                    "popular_title": null,
+                    "code": "s9607430",
+                    "station_type": "station",
+                    "station_type_name": "станция",
+                    "transport_type": "train"
+               },
+               "departure_platform": "",
+               "arrival_platform": "",
+               "departure_terminal": null,
+               "arrival_terminal": null,
+               "duration": 4260.0,
+               "has_transfers": false,
+               "tickets_info": {
+                    "et_marker": false,
+                    "places": [
+                         {
+                              "name": null,
+                              "price": {
+                                   "whole": 122,
+                                   "cents": 0
+                              },
+                              "currency": "RUB"
+                         }
+                    ]
+               },
+               "departure": "2023-06-29T18:47:00+05:00",
+               "arrival": "2023-06-29T19:58:00+05:00",
+               "start_date": "2023-06-29"
+          },
+          {
+               "thread": {
+                    "number": "6028/7198",
+                    "title": "Григорьевская — Кишерть",
+                    "short_title": "Григорьевская — Кишерть",
+                    "express_type": null,
+                    "transport_type": "suburban",
+                    "carrier": {
+                         "code": 2437,
+                         "title": "Пермская пригородная компания",
+                         "codes": {
+                              "sirena": null,
+                              "iata": null,
+                              "icao": null
+                         },
+                         "address": "614068 г.Пермь, ул.Петропавловская, 66",
+                         "url": "http://ppk59.ru/",
+                         "email": null,
+                         "contacts": "",
+                         "phone": "",
+                         "logo": null,
+                         "logo_svg": null
+                    },
+                    "uid": "6028x7198_0_9607410_g23_4",
+                    "vehicle": null,
+                    "transport_subtype": {
+                         "title": "Пригородный поезд",
+                         "code": "suburban",
+                         "color": "#CC6600"
+                    },
+                    "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2023-06-29&uid=6028x7198_0_9607410_g23_4"
+               },
+               "stops": "везде",
+               "from": {
+                    "type": "station",
+                    "title": "Пермь-2",
+                    "short_title": "",
+                    "popular_title": "",
+                    "code": "s9607774",
+                    "station_type": "station",
+                    "station_type_name": "станция",
+                    "transport_type": "train"
+               },
+               "to": {
+                    "type": "station",
+                    "title": "Кукуштан",
+                    "short_title": null,
+                    "popular_title": null,
+                    "code": "s9607430",
+                    "station_type": "station",
+                    "station_type_name": "станция",
+                    "transport_type": "train"
+               },
+               "departure_platform": "",
+               "arrival_platform": "",
+               "departure_terminal": null,
+               "arrival_terminal": null,
+               "duration": 4200.0,
+               "has_transfers": false,
+               "tickets_info": {
+                    "et_marker": false,
+                    "places": [
+                         {
+                              "name": null,
+                              "price": {
+                                   "whole": 122,
+                                   "cents": 0
+                              },
+                              "currency": "RUB"
+                         }
+                    ]
+               },
+               "departure": "2023-06-29T20:33:00+05:00",
+               "arrival": "2023-06-29T21:43:00+05:00",
+               "start_date": "2023-06-29"
           }
      ],
      "interval_segments": [],
      "pagination": {
-          "total": 2,
+          "total": 7,
           "limit": 10000,
           "offset": 0
      }

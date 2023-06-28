@@ -200,13 +200,13 @@
                "distance": 1.5328644166730954,
                "majority": 2,
                "type_choices": {
-                    "tablo": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9607493/tablo",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9607493/tablo"
-                    },
                     "suburban": {
                          "desktop_url": "https://rasp.yandex.ru/station/9607493/suburban",
                          "touch_url": "https://t.rasp.yandex.ru/station/9607493/suburban"
+                    },
+                    "tablo": {
+                         "desktop_url": "https://rasp.yandex.ru/station/9607493/tablo",
+                         "touch_url": "https://t.rasp.yandex.ru/station/9607493/tablo"
                     }
                }
           },
@@ -344,6 +344,10 @@
                "distance": 3.157843740540678,
                "majority": 1,
                "type_choices": {
+                    "suburban": {
+                         "desktop_url": "https://rasp.yandex.ru/station/9607774/suburban",
+                         "touch_url": "https://t.rasp.yandex.ru/station/9607774/suburban"
+                    },
                     "train": {
                          "desktop_url": "https://rasp.yandex.ru/station/9607774/train",
                          "touch_url": "https://t.rasp.yandex.ru/station/9607774/train"
@@ -351,10 +355,6 @@
                     "tablo": {
                          "desktop_url": "https://rasp.yandex.ru/station/9607774/tablo",
                          "touch_url": "https://t.rasp.yandex.ru/station/9607774/tablo"
-                    },
-                    "suburban": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9607774/suburban",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9607774/suburban"
                     }
                }
           },
@@ -1472,13 +1472,13 @@
                "distance": 10.41048821269225,
                "majority": 2,
                "type_choices": {
-                    "tablo": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9881597/tablo",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9881597/tablo"
-                    },
                     "suburban": {
                          "desktop_url": "https://rasp.yandex.ru/station/9881597/suburban",
                          "touch_url": "https://t.rasp.yandex.ru/station/9881597/suburban"
+                    },
+                    "tablo": {
+                         "desktop_url": "https://rasp.yandex.ru/station/9881597/tablo",
+                         "touch_url": "https://t.rasp.yandex.ru/station/9881597/tablo"
                     }
                }
           },
@@ -2436,13 +2436,13 @@
                "distance": 16.25352055427315,
                "majority": 3,
                "type_choices": {
-                    "train": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9607417/train",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9607417/train"
-                    },
                     "suburban": {
                          "desktop_url": "https://rasp.yandex.ru/station/9607417/suburban",
                          "touch_url": "https://t.rasp.yandex.ru/station/9607417/suburban"
+                    },
+                    "train": {
+                         "desktop_url": "https://rasp.yandex.ru/station/9607417/train",
+                         "touch_url": "https://t.rasp.yandex.ru/station/9607417/train"
                     }
                }
           },
@@ -2680,13 +2680,13 @@
                "distance": 17.19972290288303,
                "majority": 4,
                "type_choices": {
-                    "train": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9607939/train",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9607939/train"
-                    },
                     "suburban": {
                          "desktop_url": "https://rasp.yandex.ru/station/9607939/suburban",
                          "touch_url": "https://t.rasp.yandex.ru/station/9607939/suburban"
+                    },
+                    "train": {
+                         "desktop_url": "https://rasp.yandex.ru/station/9607939/train",
+                         "touch_url": "https://t.rasp.yandex.ru/station/9607939/train"
                     }
                }
           },
@@ -3684,13 +3684,13 @@
                "distance": 22.10002430598102,
                "majority": 2,
                "type_choices": {
-                    "tablo": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9607498/tablo",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9607498/tablo"
-                    },
                     "suburban": {
                          "desktop_url": "https://rasp.yandex.ru/station/9607498/suburban",
                          "touch_url": "https://t.rasp.yandex.ru/station/9607498/suburban"
+                    },
+                    "tablo": {
+                         "desktop_url": "https://rasp.yandex.ru/station/9607498/tablo",
+                         "touch_url": "https://t.rasp.yandex.ru/station/9607498/tablo"
                     }
                }
           },
@@ -5608,13 +5608,13 @@
                "distance": 28.20094795964093,
                "majority": 1,
                "type_choices": {
-                    "tablo": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9607689/tablo",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9607689/tablo"
-                    },
                     "suburban": {
                          "desktop_url": "https://rasp.yandex.ru/station/9607689/suburban",
                          "touch_url": "https://t.rasp.yandex.ru/station/9607689/suburban"
+                    },
+                    "tablo": {
+                         "desktop_url": "https://rasp.yandex.ru/station/9607689/tablo",
+                         "touch_url": "https://t.rasp.yandex.ru/station/9607689/tablo"
                     }
                }
           },
@@ -6412,13 +6412,13 @@
                "distance": 29.77645379373786,
                "majority": 2,
                "type_choices": {
-                    "tablo": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9607499/tablo",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9607499/tablo"
-                    },
                     "suburban": {
                          "desktop_url": "https://rasp.yandex.ru/station/9607499/suburban",
                          "touch_url": "https://t.rasp.yandex.ru/station/9607499/suburban"
+                    },
+                    "tablo": {
+                         "desktop_url": "https://rasp.yandex.ru/station/9607499/tablo",
+                         "touch_url": "https://t.rasp.yandex.ru/station/9607499/tablo"
                     }
                }
           },
@@ -9336,13 +9336,13 @@
                "distance": 43.95699152040963,
                "majority": 4,
                "type_choices": {
-                    "train": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9607411/train",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9607411/train"
-                    },
                     "suburban": {
                          "desktop_url": "https://rasp.yandex.ru/station/9607411/suburban",
                          "touch_url": "https://t.rasp.yandex.ru/station/9607411/suburban"
+                    },
+                    "train": {
+                         "desktop_url": "https://rasp.yandex.ru/station/9607411/train",
+                         "touch_url": "https://t.rasp.yandex.ru/station/9607411/train"
                     }
                }
           },
@@ -9620,13 +9620,13 @@
                "distance": 46.03763905159799,
                "majority": 2,
                "type_choices": {
-                    "tablo": {
-                         "desktop_url": "https://rasp.yandex.ru/station/9608150/tablo",
-                         "touch_url": "https://t.rasp.yandex.ru/station/9608150/tablo"
-                    },
                     "suburban": {
                          "desktop_url": "https://rasp.yandex.ru/station/9608150/suburban",
                          "touch_url": "https://t.rasp.yandex.ru/station/9608150/suburban"
+                    },
+                    "tablo": {
+                         "desktop_url": "https://rasp.yandex.ru/station/9608150/tablo",
+                         "touch_url": "https://t.rasp.yandex.ru/station/9608150/tablo"
                     }
                }
           },
